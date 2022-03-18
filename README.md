@@ -1,0 +1,1 @@
+# node-auto-test-skeleton
